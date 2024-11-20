@@ -10,5 +10,5 @@
   - `sample_part1.mat`, `sample_part2.mat`, ...: The sample data is divided into five parts to comply with GitHub's file size limits.
 
 ## Reference
-Liu, Yilong, et al. "Eliminating Electromagnetic Interference for RF Shielding-Free MRI via K-Space Convolution: Insights from MR Parallel Imaging Advances." Journal of Magnetic Resonance.
+Liu, Yilong, et al. "Eliminating Electromagnetic Interference for RF Shielding-Free MRI via K-Space Convolution: Insights from MR Parallel Imaging Advances." *Journal of Magnetic Resonance* (2024), doi: https://doi.org/10.1016/j.jmr.2024.107808
 

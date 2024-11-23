@@ -2,9 +2,9 @@ close all
 clear all
 clc
 
-addpath('.\data');
-addpath('.\calib');
-addpath('.\func');
+addpath(['.' filesep 'data']);
+addpath(['.' filesep 'calib']);
+addpath(['.' filesep 'func']);
 
 %% Data preparation
 ksp = [];
